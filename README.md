@@ -1,11 +1,11 @@
-# 🌸 Iris Flower Classification
+# Iris Flower Classification
 
 **Project:** Iris Flower Classification using Machine Learning  
 **Dataset:** Iris Flower Dataset ([Kaggle Source](https://www.kaggle.com/datasets/saurabh00007/iriscsv))
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This repository implements supervised learning models to classify iris flowers into three species:  
 **Iris‑setosa**, **Iris‑versicolor**, and **Iris‑virginica**, based on four flower measurements.
@@ -17,7 +17,7 @@ The notebook walks through:
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `Iris_Flower_Classification.ipynb` – Main notebook for analysis and modeling  
 - `requirements.txt` – List of dependencies  
@@ -25,7 +25,7 @@ The notebook walks through:
 
 ---
 
-## 🔧 Setup & Installation
+## Setup & Installation
 
 1. **Clone the repository**
 ```bash
