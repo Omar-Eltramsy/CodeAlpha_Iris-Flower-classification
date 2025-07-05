@@ -1,7 +1,6 @@
 # 🌸 Iris Flower Classification
 
 **Project:** Iris Flower Classification using Machine Learning  
-**Author:** Omar Eltramsy (CodeAlpha)  
 **Dataset:** Iris Flower Dataset ([Kaggle Source](https://www.kaggle.com/datasets/saurabh00007/iriscsv))
 
 ---
